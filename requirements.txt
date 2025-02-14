@@ -2,7 +2,6 @@ asyncio
 httpx
 pydub
 pyaudio
-mirai
 graiax-silkcoder
 audio-separator
 fastapi
